@@ -6,11 +6,12 @@
 
 | 标准写法 | 常见 ASR / 输入变体 | 使用与排版规则 |
 | --- | --- | --- |
-| 不二 | 博二 | 人名。固定显示为“不二”。 |
+| 不二 | 博二、博尔 | 人名。固定显示为“不二”；“我是博二”等自称按上下文统一为“我是不二”。 |
+| Focusee | Foxsee | 产品名。固定显示为 `Focusee`；仅在明确指向该工具时替换。 |
 | Vibe Coding | Web coding、vibe coding、VibeCoding | 两词首字母大写，保留一个空格；整词组不拆行、不拆字幕卡。 |
 | Cola | cola | 品牌/产品名。首字母大写；只有上下文明确指向该名称时才将“可乐”等近音词改为 `Cola`。 |
 | learn in public | leaning public、learning public、learn public | 全小写，保留两个空格分隔；整词组不拆行、不拆字幕卡。 |
-| build in public | building public、build public | 全小写，保留两个空格分隔；整词组不拆行、不拆字幕卡。 |
+| build in public | Build in public、building public、building in public、build public | 全小写，保留两个空格分隔；整词组不拆行、不拆字幕卡。 |
 | GitHub | github、Git Hub、github.com | 品牌名：`G`、`H` 大写且不加空格；仅在代码托管、仓库、开源语境下替换。 |
 | Supabase | supabase、Superbase、Super base | 品牌名：首字母大写，其余小写；不拆词。 |
 | Vercel | vercel、Versel、Vercel | 品牌名：首字母大写，其余小写；不拆词。 |
